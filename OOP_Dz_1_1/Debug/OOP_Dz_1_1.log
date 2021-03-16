@@ -1,0 +1,26 @@
+﻿Build started 16.03.2021 19:42:04.
+     1>Project "C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\OOP_Dz_1_1\OOP_Dz_1_1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\OOP_Dz_1_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OOP_Dz_1_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OOP_Dz_1_1.cpp
+         OOP_Dz_1_1.cpp
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(49): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(160): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(162): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(164): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(166): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(168): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\учёба\мгту остальное\maks-master\oop_dz_1\oop_dz_1_1\oop_dz_1_1.cpp(261): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\Debug\OOP_Dz_1_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\Debug\OOP_Dz_1_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\Debug\OOP_Dz_1_1.lib" /MACHINE:X86 /SAFESEH Debug\OOP_Dz_1_1.obj
+         Debug\stdafx.obj
+     1>OOP_Dz_1_1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         OOP_Dz_1_1.vcxproj -> C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\Debug\OOP_Dz_1_1.exe
+     1>Done Building Project "C:\Учёба\МГТУ остальное\maks-master\OOP_Dz_1\OOP_Dz_1_1\OOP_Dz_1_1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.54
